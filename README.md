@@ -10,10 +10,10 @@ This app was mainly created to test my knowledge on Authentication. The applicat
 
 ### Coffee Shop Manager: 
 
-User: coffee_manager@udacity.com
+User: coffee_manager@udacity.com  
 Pass: Coffee123
 
-User: coffee_barista@udacity.com
+User: coffee_barista@udacity.com  
 Pass: Coffee123
 
 
